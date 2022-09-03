@@ -7,7 +7,7 @@ import { createProduct, viewCategory } from "./script.js";
 /*
     *Se crea una const la cual capture el link de la api, asi llamar a la const y solo agregarle los ulitmos parametros de dirección.
 */
-const APP_URL = 'https://warm-forest-12828.herokuapp.com/api/v1';
+const APP_URL = 'https://shopbsale.herokuapp.com/api/v1';
 
 
 /*
